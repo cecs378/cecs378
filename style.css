@@ -1,0 +1,19 @@
+body{
+  background-color: grey;
+  color: black;
+}
+.image-container
+{
+  display: flex;
+  flex-direction: column;
+}
+
+#image {
+  display: block;
+  margin-top: 50px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 40%;
+  scroll-behavior: auto;
+  overflow: auto;
+}
