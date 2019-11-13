@@ -1,5 +1,5 @@
 body{
-  background-color: grey;
+  background-color: #e6f2ff;
   color: black;
 }
 .image-container
@@ -16,4 +16,15 @@ body{
   width: 40%;
   scroll-behavior: auto;
   overflow: auto;
+}
+
+
+iframe {
+  display:block;
+  margin:auto;
+}
+
+body#form{
+  background-color: white;
+  color: black;
 }
