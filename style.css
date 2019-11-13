@@ -18,13 +18,14 @@ body{
   overflow: auto;
 }
 
-
 iframe {
+  padding: 60px;
   display:block;
   margin:auto;
 }
 
 body#form{
+
   background-color: white;
   color: black;
 }
