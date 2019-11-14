@@ -18,11 +18,6 @@ body{
   overflow: auto;
 }
 
-navbar{
-  width:auto;
-  height: auto;
-}
-
 iframe {
   padding: 60px;
   display:block;
